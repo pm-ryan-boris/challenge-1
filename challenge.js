@@ -1,1 +1,4 @@
-const deleteNth = (arr, n) => {}; Í;
+const deleteNth = (arr, n) => {};
+
+
+export { deleteNth as default };
