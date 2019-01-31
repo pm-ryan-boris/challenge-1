@@ -1,4 +1,4 @@
-const deleteNth = (arr, n) => {};
+function deleteNth(arr, n) {}
 
 
-export { deleteNth as default };
+module.exports = deleteNth;
